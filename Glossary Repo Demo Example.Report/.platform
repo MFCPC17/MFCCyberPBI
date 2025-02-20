@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "Glossary Repo Demo Example"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "88d3ac07-20a7-4f2f-b4b4-e907b5fb4654"
+  }
+}

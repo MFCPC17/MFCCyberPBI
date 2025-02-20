@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "Glossary Repo Demo Example"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "daf3ccbf-6207-45a2-8a71-289c7de5edfe"
+  }
+}
